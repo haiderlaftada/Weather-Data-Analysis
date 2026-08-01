@@ -1,0 +1,13 @@
+pandas
+
+ydata_profiling
+
+numpy
+
+matplotlib
+
+python 3.12.6
+
+jupyter
+
+Excell
