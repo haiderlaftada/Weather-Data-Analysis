@@ -52,8 +52,8 @@ The project demonstrates practical data analysis skills including data cleaning,
 | Engineered Features | 7 |
 | Time Period | January 2012 – December 2012 |
 | Frequency | Hourly |
-| Missing Values | 0 |
-| Duplicate Records | 0 |
+| Missing Values | 5 |
+| Duplicate Records | 4 |
 
 ---
 
