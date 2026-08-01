@@ -151,7 +151,7 @@ The analysis includes:
 ## Monthly Temperature Trend
 
 <p align="center">
-<img src="images/monthly_temperature.png" width="90%">
+<img src="images/Dashbord_1.png" width="90%">
 </p>
 
 ---
@@ -159,7 +159,7 @@ The analysis includes:
 ## Correlation Heatmap
 
 <p align="center">
-<img src="images/correlation_heatmap.png" width="90%">
+<img src="images/Dashbord_2.png" width="90%">
 </p>
 
 ---
@@ -229,7 +229,7 @@ Weather-Data-Analysis
 Aspiring Data Analyst | Business Intelligence Analyst
 
 - GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourusername
+- LinkedIn: https://www.linkedin.com/in/haider-lafta-dakhil-a63a22348/
 
 ---
 
