@@ -156,7 +156,7 @@ The analysis includes:
 
 ---
 
-## Correlation Heatmap
+## Most Weather & Visibility
 
 <p align="center">
 <img src="images/Dashbord_2.png" width="90%">
@@ -228,7 +228,7 @@ Weather-Data-Analysis
 
 Aspiring Data Analyst | Business Intelligence Analyst
 
-- GitHub: https://github.com/yourusername
+- GitHub: https://github.com/haiderlaftada
 - LinkedIn: https://www.linkedin.com/in/haider-lafta-dakhil-a63a22348/
 
 ---
