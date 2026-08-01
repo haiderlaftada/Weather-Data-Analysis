@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="images/banner.png" alt="Weather Data Analysis Banner" width="100%">
-</p>
+
 
 <h1 align="center">🌦️ Weather Data Analysis using Python</h1>
 
@@ -14,6 +12,8 @@
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-success)
 
 </p>
